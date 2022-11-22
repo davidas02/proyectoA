@@ -11,6 +11,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Project/PHP/PHPProject.php to edi
     <body>
         <?php
         print "Bienvenido a GIT";
+        print "Hola Developer 1";
         ?>
     </body>
 </html>
